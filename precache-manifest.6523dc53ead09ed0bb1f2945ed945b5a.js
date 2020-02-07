@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2a27cbec23c44fb886a04b8b87e466b",
+    "revision": "7341317d45ed09ec6c3e77668aacbea3",
     "url": "/pailaone/index.html"
   },
   {
-    "revision": "0532537e8ba714519ab8",
+    "revision": "5f75673b2031037dcab8",
     "url": "/pailaone/static/css/main.a892d118.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pailaone/static/js/2.668cad67.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0532537e8ba714519ab8",
-    "url": "/pailaone/static/js/main.05878326.chunk.js"
+    "revision": "5f75673b2031037dcab8",
+    "url": "/pailaone/static/js/main.d622817e.chunk.js"
   },
   {
     "revision": "2ca38b70edf7598060e7",
