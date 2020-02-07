@@ -1,0 +1,42 @@
+{
+  "name": "synt",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "react": "^16.12.0",
+    "react-circle-slider": "^1.6.2",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.3.1",
+    "tailwindcss": "^1.1.4",
+    "tone": "^14.5.35"
+  },
+  "scripts": {
+    "start": "npm run build:css && react-scripts start",
+    "build": "npm run build:css && react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "build:css": "postcss src/styles/tw.css -o src/styles/app.css"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "postcss-cli": "^7.1.0"
+  }
+}
