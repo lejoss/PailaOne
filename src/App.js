@@ -57,7 +57,7 @@ function App() {
         <Keyboard>
           <Note>
             <WhiteKey note="C" onClick={() => onPlay('C4')} />
-            <BlackKey note="C#" onPlay={() => onPlay('C#4')} />
+            <BlackKey note="C#" onClick={() => onPlay('C#4')} />
           </Note>
           <Note>
             <WhiteKey note="D" onClick={() => onPlay('D4')} />

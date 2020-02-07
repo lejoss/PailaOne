@@ -1,5 +1,6 @@
 {
   "name": "synt",
+  "homepage": "https://lejoss.github.io/pailaone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +19,9 @@
     "build": "npm run build:css && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:css": "postcss src/styles/tw.css -o src/styles/app.css"
+    "build:css": "postcss src/styles/tw.css -o src/styles/app.css",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -37,6 +40,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.7.4",
+    "gh-pages": "^2.2.0",
     "postcss-cli": "^7.1.0"
   }
 }
