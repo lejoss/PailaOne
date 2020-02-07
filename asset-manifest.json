@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pailaone/static/css/main.a892d118.chunk.css",
+    "main.js": "/pailaone/static/js/main.05878326.chunk.js",
+    "main.js.map": "/pailaone/static/js/main.05878326.chunk.js.map",
+    "runtime-main.js": "/pailaone/static/js/runtime-main.ac0af2bf.js",
+    "runtime-main.js.map": "/pailaone/static/js/runtime-main.ac0af2bf.js.map",
+    "static/js/2.668cad67.chunk.js": "/pailaone/static/js/2.668cad67.chunk.js",
+    "static/js/2.668cad67.chunk.js.map": "/pailaone/static/js/2.668cad67.chunk.js.map",
+    "index.html": "/pailaone/index.html",
+    "precache-manifest.0b8cec6050c9fb1a5cdb3beb32b92a6f.js": "/pailaone/precache-manifest.0b8cec6050c9fb1a5cdb3beb32b92a6f.js",
+    "service-worker.js": "/pailaone/service-worker.js",
+    "static/css/main.a892d118.chunk.css.map": "/pailaone/static/css/main.a892d118.chunk.css.map",
+    "static/js/2.668cad67.chunk.js.LICENSE.txt": "/pailaone/static/js/2.668cad67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac0af2bf.js",
+    "static/js/2.668cad67.chunk.js",
+    "static/css/main.a892d118.chunk.css",
+    "static/js/main.05878326.chunk.js"
+  ]
+}
